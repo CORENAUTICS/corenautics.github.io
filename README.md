@@ -27,7 +27,7 @@ OR
 - <a href="https://www.corenautics.com/partners.html">Let's Become Partners.</a>
 
 
-🧙 We Respect your <a href="https://www.corenautics.com/privacy">Privacy.</a>, but here are Our <a href="https://www.corenautics.com/termsandconditions">Terms and Conditions</a>
+🧙 We Respect your <a href="https://www.corenautics.com/privacy">Privacy</a>, but here are Our <a href="https://www.corenautics.com/termsandconditions">Terms and Conditions.</a>
 
 <footer class="main-footer">
     <div class="float-right d-none d-sm-block">
