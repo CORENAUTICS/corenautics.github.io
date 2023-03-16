@@ -16,7 +16,7 @@ Our documents [page](docs.corenautics.com) are in process, but you can find upda
 
 ### 🙋‍ **Is there anything else the community should know?**
 
--  Get to know  <a href="https://corenautics.github.io/about.html"> Our Story.</a>
+-  Get to know  <a href="https://github.com/corenautics/about.html"> Our Story.</a>
 
 -  We are also <a href="https://corenautics.github.io/socials.html">Social</a> 
 
@@ -27,7 +27,7 @@ OR
 - <a href="https://corenautics.github.io/partners.html">Let's Become Partners.</a>
 
 
-🧙 We Respect your <a href="https://corenautics.github.io/privacy">Privacy</a>, but here are Our <a href="https://www.corenautics.com/termsandconditions">Terms and Conditions.</a>
+🧙 We Respect your <a href="https://corenautics.github.io/privacy">Privacy</a>, but here are Our <a href="https://corenautics.github.io/termsandconditions">Terms and Conditions.</a>
 
 <footer class="main-footer">
     <div class="float-right d-none d-sm-block">
