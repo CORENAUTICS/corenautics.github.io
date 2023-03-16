@@ -23,7 +23,7 @@ Our documents [page](docs.corenautics.com) are in process, but you can find upda
 
 OR 
 
-- <a href="https://corenautics.github.io/partners.html">Let's Become Partners.</a>
+- <a href="https://corenautics.github.io/partners.html">Our Partners.</a>
 
 
 🧙 We Respect your <a href="https://corenautics.github.io/privacy">Privacy</a>, but here are Our <a href="https://corenautics.github.io/termsandconditions">Terms and Conditions.</a>
