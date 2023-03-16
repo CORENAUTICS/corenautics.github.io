@@ -4,7 +4,7 @@
 This repo is for the Github Static Site for CorenauTiX found [here](https://corenautics.github.io)
 
 ###  🙋‍♀️ **What is CoreNauTiX**?
-LucidWebhosting is an Engineering Products & Services Company that provides specialized consulting services to help clients bring products or technology to market, brand management and promotion services.
+CoreNauTiX is an Engineering Products & Services Company that provides specialized consulting services to help clients bring products or technology to market, brand management and promotion services.
 
 ### 🙋‍♀️ **What does CoreNauTiX do?**
 Platform offers consulting services to help clients bring products or technology to market.
