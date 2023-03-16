@@ -1,6 +1,5 @@
-# corenautics.github.io
-# Hi there 👋.
-
+# Hi Welcome, This is Us 👋.
+  
 This repo is for the Github Static Site for CorenauTiX found [here](https://corenautics.github.io)
 
 ###  🙋‍♀️ **What is CoreNauTiX**?
